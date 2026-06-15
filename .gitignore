@@ -1,0 +1,30 @@
+# Simulation outputs
+*.vcd
+*.vpd
+*.log
+*.key
+*.shm/
+csrc/
+simv*
+work/
+transcript
+DVEfiles/
+xcelium.d/
+AN.DB/
+ucli.key
+*.fsdb
+*.wlf
+
+# Coverage
+urgReport/
+coverage_*/
+*.ucdb
+covhtmlreport/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
